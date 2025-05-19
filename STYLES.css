@@ -1,0 +1,25 @@
+/* Estilo general del fondo */
+body {
+    background-color: white;
+  }
+  
+  /* Estilo para el footer rosado */
+  .footer-custom {
+    background-color: #e2a9a2;
+  }
+  
+  /* Botón redondeado en el footer */
+  .btn-footer {
+    border: 2px solid black;
+    border-radius: 50px;
+    padding: 8px 24px;
+    font-weight: 500;
+  }
+  
+  /* Select personalizado */
+  .select-footer {
+    border: 2px solid black;
+    width: 75%;
+    padding: 5px;
+  }
+  
